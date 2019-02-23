@@ -3,10 +3,10 @@ Include the date you created this project and README file.
 02/22/2019
 ### Project Title
 Replace the Project Title
-
+Bike Share Project
 ### Description
-Describe what your project is about and what it does
 
+Explores data in the various cities
 ### Files used
 Include the files used
 
